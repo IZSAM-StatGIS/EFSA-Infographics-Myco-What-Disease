@@ -1,0 +1,12 @@
+
+.DS_Store
+.idea/EFSA-Infographics-Myco-What-Disease.iml
+.idea/modules.xml
+.idea/php.xml
+.idea/vcs.xml
+images/.DS_Store
+images/icons/.DS_Store
+images/icons/.idea/icons.iml
+images/icons/.idea/modules.xml
+images/icons/.idea/php.xml
+images/icons/.idea/vcs.xml
