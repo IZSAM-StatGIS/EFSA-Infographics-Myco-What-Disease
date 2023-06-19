@@ -42,7 +42,7 @@
         {"name": "Depression", "abstract": "", "img": "images/icons/ic_depression.svg"},
         {"name": "Massive haemoptysis", "abstract": "", "img": "images/icons/ic_haemoptysis.svg"},
         {"name": "Post-tuberculosis lung disease", "abstract": " (breathlessness and chronic cough) ", "img": "images/icons/ic_pneumonia.svg"},
-        {"name": "Psycho-social complications", "abstract": "Endocarditis", "img": "images/icons/ic_psychosocial.svg"}
+        {"name": "Psycho-social complications", "abstract": "", "img": "images/icons/ic_psychosocial.svg"}
       ]
     }
   },
@@ -72,9 +72,12 @@
       "backgroundImage": {
         "src": "images/backgrounds/whois_animals.svg"
       },
-      "text": "",
+      "text": "Mammalian vertebrates",
       "collection": [
-        {"name": "Mammalian vertebrates", "abstract": "", "img": "images/icons/ic_cow.svg"}
+        {"name": "Cattle", "abstract": "", "img": "images/icons/ic_cow.svg"},
+        {"name": "Sheep", "abstract": "", "img": "images/icons/ic_sheep.svg"},
+        {"name": "Goat", "abstract": "", "img": "images/icons/ic_goat.svg"},
+        {"name": "Deer", "abstract": "", "img": "images/icons/ic_deer.svg"}
       ]
     },
     "complications":{
